@@ -1,0 +1,3 @@
+cv_camera:
+    image_width: 320
+    image_height: 240
