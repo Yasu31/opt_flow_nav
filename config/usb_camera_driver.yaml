@@ -1,0 +1,6 @@
+camera:
+    ros__parameters:
+        image_width: 320
+        image_height: 240
+        fps: 30.
+        camera_id: 0
